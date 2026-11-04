@@ -6,3 +6,10 @@ obj/
 *.suo
 *.userosscache
 *.sln.docstates
+
+# Python / macOS
+__pycache__/
+*.pyc
+.DS_Store
+
+
